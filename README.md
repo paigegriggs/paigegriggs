@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paigegriggs
 - 👀 I’m interested in environmental economics and water management.
-- 🌱 I’m currently learning R studio
+- 🌱 I’m currently improving my R studio skills
 
 <!---
 paigegriggs/paigegriggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
